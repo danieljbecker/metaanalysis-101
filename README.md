@@ -1,1 +1,1 @@
-# metaanalysis-101
+powerpoint walk-through and R code using `metafor` that covers effect size conversion, random- and fixed-effects models, meta-regression, tests of publication bias, data visualization, and how to incorperate hierarchical structure (multiple lines of data per study, species independence, etc) into analyses.
